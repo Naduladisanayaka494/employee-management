@@ -1,0 +1,6 @@
+@InternassignmentBackend_HostAddress = http://localhost:5284
+
+GET {{InternassignmentBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
